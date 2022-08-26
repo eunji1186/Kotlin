@@ -1,0 +1,456 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="0628fc54-10a5-4859-b826-d9e7832e412d" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../2-5/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2-5/.idea/.name" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2-5/.idea/kotlinc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2-5/.idea/libraries/KotlinJavaRuntime.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2-5/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2-5/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2-5/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2-5/chap05.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2-5/out/production/chap05/META-INF/chap05.kotlin_module" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2-5/out/production/chap05/section1/Bird.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2-5/out/production/chap05/section1/BirdClassDefineKt.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2-5/out/production/chap05/section2/BIRd.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2-5/out/production/chap05/section2/BirdPrimaryConstructorKt.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2-5/out/production/chap05/section2/BirdPrimaryInitKt.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2-5/out/production/chap05/section2/BirdSecondaryConstructorKt.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2-5/out/production/chap05/section3/BirdChildClassesKt.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2-5/out/production/chap05/section3/Calc.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2-5/out/production/chap05/section3/Lark.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2-5/out/production/chap05/section3/OverloadCalcKt.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2-5/out/production/chap05/section3/Parrot.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2-5/out/production/chap05/section3/bird.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2-5/out/production/chap05/section3/override/Bird.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2-5/out/production/chap05/section3/override/BirdOverrideExKt.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2-5/out/production/chap05/section3/override/PArrot.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2-5/out/production/chap05/section3/personthis/Developer.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2-5/out/production/chap05/section3/personthis/Person.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2-5/out/production/chap05/section3/personthis/PersonThisSuperKt.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2-5/out/production/chap05/section4/A.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2-5/out/production/chap05/section4/AngleBracketTestKt.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2-5/out/production/chap05/section4/B$DefaultImpls.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2-5/out/production/chap05/section4/B.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2-5/out/production/chap05/section4/C.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2-5/out/production/chap05/section4/Person.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2-5/out/production/chap05/section4/PersonPriSeconRefKt.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2-5/out/production/chap05/section4/innerref/Base.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2-5/out/production/chap05/section4/innerref/Child$Inside.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2-5/out/production/chap05/section4/innerref/Child.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2-5/out/production/chap05/section4/innerref/InnerClassRefKt.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2-5/out/production/chap05/section5/Base$Nested.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2-5/out/production/chap05/section5/Base.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2-5/out/production/chap05/section5/Burglar.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2-5/out/production/chap05/section5/Car$Driver.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2-5/out/production/chap05/section5/Car.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2-5/out/production/chap05/section5/CarVisibilityPublicKt.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2-5/out/production/chap05/section5/Derived.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2-5/out/production/chap05/section5/InternalClass.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2-5/out/production/chap05/section5/InternalTestKt.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2-5/out/production/chap05/section5/InternalTestOtherFileKt.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2-5/out/production/chap05/section5/Other.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2-5/out/production/chap05/section5/ProtectedTestKt.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2-5/out/production/chap05/section5/Tico.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2-5/out/production/chap05/section5/privatetest/OtherClass.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2-5/out/production/chap05/section5/privatetest/PrivateClass.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2-5/out/production/chap05/section5/privatetest/PrivateTestKt.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2-5/out/production/chap05/section6/AggregationTestKt.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2-5/out/production/chap05/section6/AssociationTestKt.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2-5/out/production/chap05/section6/Car.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2-5/out/production/chap05/section6/CompositionTestKt.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2-5/out/production/chap05/section6/DependencyTestKt.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2-5/out/production/chap05/section6/Doctor.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2-5/out/production/chap05/section6/Duck.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2-5/out/production/chap05/section6/Engine.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2-5/out/production/chap05/section6/Patient.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2-5/out/production/chap05/section6/Pond.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2-5/src/section1/BirdClassDefine.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2-5/src/section2/BirdPrimaryConstructor.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2-5/src/section2/BirdPrimaryInit.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2-5/src/section2/BirdSecondaryConstructor.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2-5/src/section3/BirdChildClasses.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2-5/src/section3/BirdOverrideEx.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2-5/src/section3/OverloadCalc.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2-5/src/section4/AngleBracketTest.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2-5/src/section4/InnerClassRef.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2-5/src/section4/PersonPriSeconRef.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2-5/src/section4/PersonThisSuper.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2-5/src/section5/CarVisibilityPublic.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2-5/src/section5/InternalTest.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2-5/src/section5/InternalTestOtherFile.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2-5/src/section5/PrivateTest.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2-5/src/section5/ProtectedTest.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2-5/src/section6/AggregationTest.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2-5/src/section6/AssociationTest.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2-5/src/section6/CompositionTest.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2-5/src/section6/DependencyTest.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2-6/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2-6/.idea/.name" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2-6/.idea/kotlinc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2-6/.idea/libraries/KotlinJavaRuntime.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2-6/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2-6/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2-6/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2-6/chap06.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2-6/out/production/chap06/META-INF/chap06.kotlin_module" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2-6/out/production/chap06/section1/CustomGetterSetterBackingPropertyKt.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2-6/out/production/chap06/section1/FakeAge.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2-6/out/production/chap06/section1/FakeAgeTestKt.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2-6/out/production/chap06/section1/First.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2-6/out/production/chap06/section1/GetterSetterTestKt.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2-6/out/production/chap06/section1/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2-6/out/production/chap06/section1/NormalGetterSetterKt.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2-6/out/production/chap06/section1/Person.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2-6/out/production/chap06/section1/PropertyOverrideKt.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2-6/out/production/chap06/section1/Second.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2-6/out/production/chap06/section1/USer.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2-6/out/production/chap06/section1/customgetest/CustomGetterSetterKt.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2-6/out/production/chap06/section1/customgetest/USEr.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2-6/out/production/chap06/section2/ByLazyObjKt$main$person1$2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2-6/out/production/chap06/section2/ByLazyObjKt$main$personDelegate$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2-6/out/production/chap06/section2/ByLazyObjKt.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2-6/out/production/chap06/section2/ByLazyTestKt.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2-6/out/production/chap06/section2/Car.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2-6/out/production/chap06/section2/CarModel.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2-6/out/production/chap06/section2/DelegatedClassKt.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2-6/out/production/chap06/section2/DelegatedPropertyKt.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2-6/out/production/chap06/section2/DelegatedPropertyVetoableKt$main$$inlined$vetoable$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2-6/out/production/chap06/section2/DelegatedPropertyVetoableKt.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2-6/out/production/chap06/section2/LateinitTestKt.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2-6/out/production/chap06/section2/LazyTest$subject$2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2-6/out/production/chap06/section2/LazyTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2-6/out/production/chap06/section2/Person$test$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2-6/out/production/chap06/section2/Person.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2-6/out/production/chap06/section2/SportImpl.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2-6/out/production/chap06/section2/User$$special$$inlined$observable$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2-6/out/production/chap06/section2/User.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2-6/out/production/chap06/section2/VanImpl.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2-6/out/production/chap06/section3/CCustomer$Companion.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2-6/out/production/chap06/section3/CCustomer.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2-6/out/production/chap06/section3/CompanionObjectTestKt.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2-6/out/production/chap06/section3/Customer.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2-6/out/production/chap06/section3/CustomerAccessKt.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2-6/out/production/chap06/section3/Hobby.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2-6/out/production/chap06/section3/KCustomer$Companion.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2-6/out/production/chap06/section3/KCustomer.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2-6/out/production/chap06/section3/KCustomerAccess.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2-6/out/production/chap06/section3/KJob.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2-6/out/production/chap06/section3/OCustomer.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2-6/out/production/chap06/section3/OCustomerAccess.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2-6/out/production/chap06/section3/ObjectDeclarationKt.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2-6/out/production/chap06/section3/ObjectExpressionSuperManKt$main$pretendedman$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2-6/out/production/chap06/section3/ObjectExpressionSuperManKt.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2-6/out/production/chap06/section3/PKLevel.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2-6/out/production/chap06/section3/PackageLevelAccess.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2-6/out/production/chap06/section3/Person$Companion.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2-6/out/production/chap06/section3/Person.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2-6/out/production/chap06/section3/Superman.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2-6/src/section1/CustomGetterSetter.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2-6/src/section1/CustomGetterSetterBackingProperty.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2-6/src/section1/FakeAgeTest.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2-6/src/section1/GetterSetterTest.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2-6/src/section1/NormalGetterSetter.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2-6/src/section1/PersonTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2-6/src/section1/PropertyOverride.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2-6/src/section2/ByLazyObj.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2-6/src/section2/ByLazyTest.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2-6/src/section2/DelegatedClass.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2-6/src/section2/DelegatedProperty.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2-6/src/section2/DelegatedPropertyVetoable.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2-6/src/section2/LateinitTest.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2-6/src/section3/CompanionObjectTest.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2-6/src/section3/Customer.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2-6/src/section3/CustomerAccess.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2-6/src/section3/KCustomer.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2-6/src/section3/KCustomerAccess.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2-6/src/section3/OCustomerAccess.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2-6/src/section3/ObjectDeclaration.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2-6/src/section3/ObjectExpressionSuperMan.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2-6/src/section3/PackageLevelAccess.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2-6/src/section3/PackageLevelFunction.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2-7/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2-7/.idea/.name" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2-7/.idea/kotlinc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2-7/.idea/libraries/KotlinJavaRuntime.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2-7/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2-7/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2-7/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2-7/chap07.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2-7/out/production/chap07/META-INF/chap07.kotlin_module" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2-7/out/production/chap07/section1/AbstractObjectKt$myPrinter$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2-7/out/production/chap07/section1/AbstractObjectKt.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2-7/out/production/chap07/section1/AbstractVehicleKt.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2-7/out/production/chap07/section1/Animal.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2-7/out/production/chap07/section1/Bird$DefaultImpls.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2-7/out/production/chap07/section1/Bird.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2-7/out/production/chap07/section1/Car.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2-7/out/production/chap07/section1/Cat.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2-7/out/production/chap07/section1/CatAndDogKt.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2-7/out/production/chap07/section1/Dog.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2-7/out/production/chap07/section1/Hourse$DefaultImpls.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2-7/out/production/chap07/section1/Hourse.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2-7/out/production/chap07/section1/InterfacePetKt.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2-7/out/production/chap07/section1/Master.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2-7/out/production/chap07/section1/Motorcycle.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2-7/out/production/chap07/section1/Pegasus.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2-7/out/production/chap07/section1/PegasusTestKt.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2-7/out/production/chap07/section1/Pet$DefaultImpls.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2-7/out/production/chap07/section1/Pet.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2-7/out/production/chap07/section1/Printer.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2-7/out/production/chap07/section1/Vehicle.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2-7/out/production/chap07/section1/coffee/CoffeeMaker.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2-7/out/production/chap07/section1/coffee/CoffeeMakerKt.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2-7/out/production/chap07/section1/coffee/CoffeeModule.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2-7/out/production/chap07/section1/coffee/ElectricHeater.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2-7/out/production/chap07/section1/coffee/Heater.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2-7/out/production/chap07/section1/coffee/MyDripCoffeeModule$Companion$electricHeater$2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2-7/out/production/chap07/section1/coffee/MyDripCoffeeModule$Companion.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2-7/out/production/chap07/section1/coffee/MyDripCoffeeModule$_thermosiphon$2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2-7/out/production/chap07/section1/coffee/MyDripCoffeeModule.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2-7/out/production/chap07/section1/coffee/Pump.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2-7/out/production/chap07/section1/coffee/Thermosiphon.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2-7/out/production/chap07/section2/AnonymousClassTestKt.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2-7/out/production/chap07/section2/EnumClassTestKt.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2-7/out/production/chap07/section2/InnerClassTestKt.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2-7/out/production/chap07/section2/Inside.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2-7/out/production/chap07/section2/LocalClassTestKt.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2-7/out/production/chap07/section2/MemberType$GOLD.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2-7/out/production/chap07/section2/MemberType$NORMAL.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2-7/out/production/chap07/section2/MemberType$SILVER.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2-7/out/production/chap07/section2/MemberType.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2-7/out/production/chap07/section2/NestedClassTestKt.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2-7/out/production/chap07/section2/Outer$Nested.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2-7/out/production/chap07/section2/Outer.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2-7/out/production/chap07/section2/ReflectionTestKt.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2-7/out/production/chap07/section2/Result$Error.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2-7/out/production/chap07/section2/Result$Success.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2-7/out/production/chap07/section2/Result.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2-7/out/production/chap07/section2/SMArtPhone$EXTernalStorage.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2-7/out/production/chap07/section2/SMArtPhone$PowerOn$LEd.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2-7/out/production/chap07/section2/SMArtPhone$PowerOn$powerSwitch$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2-7/out/production/chap07/section2/SMArtPhone.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2-7/out/production/chap07/section2/Score.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2-7/out/production/chap07/section2/SealedClassTestKt.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2-7/out/production/chap07/section2/Status.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2-7/out/production/chap07/section2/Swicher.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2-7/out/production/chap07/section2/User.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2-7/out/production/chap07/section3/OperatorOverloadingKt.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2-7/out/production/chap07/section3/Point.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2-7/src/section1/AbstractObject.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2-7/src/section1/AbstractVehicle.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2-7/src/section1/CatAndDog.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2-7/src/section1/InterfacePet.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2-7/src/section1/PegasusTest.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2-7/src/section1/coffee/CoffeeMaker.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2-7/src/section1/coffee/CoffeeModule.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2-7/src/section1/coffee/ElectricHeater.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2-7/src/section1/coffee/Heater.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2-7/src/section1/coffee/MyDripCoffeeModule.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2-7/src/section1/coffee/Pump.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2-7/src/section1/coffee/Thermosiphon.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2-7/src/section2/AnonymousClassTest.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2-7/src/section2/EnumClassTest.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2-7/src/section2/InnerClassTest.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2-7/src/section2/LocalClassTest.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2-7/src/section2/NestedClassTest.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2-7/src/section2/ReflectionTest.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2-7/src/section2/SealedClassTest.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2-7/src/section3/OperatorOverloading.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.name" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/kotlinc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/KotlinJavaRuntime.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/chap08.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/chap08/META-INF/chap08.kotlin_module" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/chap08/section1/Animal.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/chap08/section1/BOX.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/chap08/section1/Calc.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/chap08/section1/Cat.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/chap08/section1/FindIndexKt.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/chap08/section1/GenericBoxKt.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/chap08/section1/GenericNull.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/chap08/section1/GenericNullKt.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/chap08/section1/LambdaParameterKt$main$result$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/chap08/section1/LambdaParameterKt.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/chap08/section1/NumberLimitKt.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/chap08/section1/ReifiedGenericKt.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/chap08/section1/Spider.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/chap08/section1/VarianceLimitTestKt.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/section1/FindIndex.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/section1/GenericBox.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/section1/GenericNull.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/section1/LambdaParameter.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/section1/NumberLimit.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/section1/ReifiedGeneric.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/section1/VarianceLimitTest.kt" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Kotlin File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="ProjectId" id="20LHDRm2wFu0L5wSTtTpLo9s1ey" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../CHAPTER3/3-8" />
+  </component>
+  <component name="RunManager" selected="Kotlin.ReifiedGenericKt">
+    <configuration name="FindIndexKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <module name="chap08" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" value="section1.FindIndexKt" />
+      <option name="WORKING_DIRECTORY" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LambdaParameterKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <module name="chap08" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" value="section1.LambdaParameterKt" />
+      <option name="WORKING_DIRECTORY" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="NumberLimitKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <module name="chap08" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" value="section1.NumberLimitKt" />
+      <option name="WORKING_DIRECTORY" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ReifiedGenericKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <module name="chap08" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" value="section1.ReifiedGenericKt" />
+      <option name="WORKING_DIRECTORY" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="VarianceLimitTestKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <module name="chap08" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" value="section1.VarianceLimitTestKt" />
+      <option name="WORKING_DIRECTORY" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Kotlin.ReifiedGenericKt" />
+        <item itemvalue="Kotlin.VarianceLimitTestKt" />
+        <item itemvalue="Kotlin.NumberLimitKt" />
+        <item itemvalue="Kotlin.LambdaParameterKt" />
+        <item itemvalue="Kotlin.FindIndexKt" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="0628fc54-10a5-4859-b826-d9e7832e412d" name="Default Changelist" comment="" />
+      <created>1635816830391</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1635816830391</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="549" y="167" key="FileChooserDialogImpl" timestamp="1635916685116">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="549" y="167" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1635916685116" />
+    <state width="1493" height="210" key="GridCell.Tab.0.bottom" timestamp="1635825460442">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="210" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1635825460442" />
+    <state width="1493" height="210" key="GridCell.Tab.0.center" timestamp="1635825460442">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="210" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1635825460442" />
+    <state width="1493" height="210" key="GridCell.Tab.0.left" timestamp="1635825460442">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="210" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1635825460442" />
+    <state width="1493" height="210" key="GridCell.Tab.0.right" timestamp="1635825460442">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="210" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1635825460442" />
+  </component>
+</project>
