@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">SignInEx</string>
+    <string name="sign_in_username">Username</string>
+    <string name="sign_in_password">Password</string>
+    <string name="sign_in_button">Sign In</string>
+    <string name="invalid_user_title">Sign In Failed!</string>
+    <string name="invalid_user_message">Invalid username or password</string>
+    <string name="button_close">Close</string>
+    <string name="access_denied_title">Access Denied</string>
+    <string name="access_denied_msg">You do not have permission</string>
+</resources>
